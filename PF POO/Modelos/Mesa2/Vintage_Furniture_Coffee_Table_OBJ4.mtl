@@ -1,0 +1,111 @@
+newmtl Clock_obj:Sec_Zeiger
+illum 4
+Kd 0.80 0.01 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Clock_obj:Uhr_2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Uhr_ohne_Zeiger.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Clock_obj:Uhr_2_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.41 0.41 0.41
+map_Kd Uhr_ohne_Zeiger.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Clock_obj:Uhr_2_NONE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Uhr_ohne_Zeiger.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Clock_obj:Uhr_2_Rand
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd steel.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Clock_obj:min_Zeiger
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Cottage_FREE3:Cottage_FREE
+illum 4
+Kd 0.80 0.80 0.80
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl FREE_TRASHCAN_1_OBJ:Metall_Chrome
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 10.00
+newmtl Pot:Pot
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd Pot.jpg
+Ni 1.45
+Ks 0.10 0.10 0.10
+Ns 737.86
+newmtl Vintage_Furniture_Coffee_Table_OBJ:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl _Radiogram__furniture__V2_Texture:_20347_Radiogram__furniture__V220347_Radiogram__furniture__V2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 20347_Radiogram_(furniture)_V2_Diff.jpg
+map_Ka 20347_Radiogram_(furniture)_V2_Diff.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 69.00
+newmtl _wooden_door_v3_iterations_2:orig_orig_orig_orig_orig_orig_orig_10057_wooden_door_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10057_wooden_door_v1_diffuse.jpg
+map_Ka 10057_wooden_door_v1_diffuse.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

@@ -1,0 +1,27 @@
+newmtl katana6:default00
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.88 0.88 0.88
+Tf 1.00 1.00 1.00
+map_Kd katana.bmp
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.25
+newmtl untitled:Axe
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Axe.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl untitled1:Axe
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Axe.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
